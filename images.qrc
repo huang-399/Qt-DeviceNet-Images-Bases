@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>11.png</file>
+        <file>bt1.png</file>
+        <file>bt2.png</file>
+        <file>bt3.png</file>
+        <file>bt4.png</file>
+        <file>bt5.png</file>
+        <file>eyes.png</file>
+        <file>eyes_open.png</file>
+        <file>ima.png</file>
+        <file>search_icon.svg</file>
+        <file>search_icon_red.svg</file>
+        <file>up_arrow.svg</file>
+        <file>title_white.png</file>
+        <file>33.png</file>
+        <file>44.png</file>
+        <file>down_arrow.svg</file>
+    </qresource>
+</RCC>
