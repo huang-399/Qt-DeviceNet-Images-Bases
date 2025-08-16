@@ -1,0 +1,16 @@
+# Qt user-specific files
+DeviceNet.pro.user
+*.pro.user
+*.pro.user.*
+
+# Build directories
+build/
+debug/
+release/
+
+# Compiled object files
+*.o
+*.obj
+
+# Executable directory
+/DeviceNet Software/
